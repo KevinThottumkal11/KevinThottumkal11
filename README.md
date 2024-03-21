@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Software Developer Intern at MEDIC (mHealth & eHealth Development and Innovation Centre) at Mohawk College<br>🌱 I’m currently learning about NLP and LLMs<br>💬 Ask me about software and cars
+🔭 I’m currently working as a Software Developer Intern at MEDIC (mHealth & eHealth Development and Innovation Centre) at Mohawk College<br>🌱 I’m currently learning about ASP.NET<br>💬 Ask me about software and cars
 
 
 ## 🌐 Socials:
