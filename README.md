@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Software Developer Intern at MEDIC (mHealth & eHealth Development and Innovation Centre) at Mohawk College<br>🌱 I’m currently learning about Android Development with Kotlin and Jetpack Compose<br>💬 Ask me about software and cars
+🔭 I’m currently working as a Software Developer Intern at Hivenue<br>🌱 I’m currently learning Machine Learning!<br>💬 Ask me about software and cars
 
 
 ## 🌐 Socials:
