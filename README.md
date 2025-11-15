@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Software Developer (Full-Stack) at Hivenue<br>🌱 I’m currently learning Machine Learning!<br>💬 Ask me about software and cars
+🔭 I’m currently working as a Software Developer (Full-Stack) at Hivenue<br>🌱 I’m currently learning DevOps and CyberSecurity (in AI)!<br>💬 Ask me about software and cars
 
 
 ## 🌐 Socials:
